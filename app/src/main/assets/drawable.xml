@@ -47,6 +47,7 @@
     <item drawable="avast_antivirus" />
     <item drawable="avira_antivirus" />
     <item drawable="bitmoji" />
+    <item drawable="bitwarden" />
     <item drawable="bookmyshow" />
     <item drawable="boost" />
     <item drawable="calculator_alt" />
@@ -61,6 +62,7 @@
     <item drawable="compass" />
     <item drawable="contacts" />
     <item drawable="contacts_alt" />
+    <item drawable="digilocker" />
     <item drawable="earth" />
     <item drawable="ebook" />
     <item drawable="email_blue" />
@@ -70,19 +72,24 @@
     <item drawable="firefox" />
     <item drawable="gallery" />
     <item drawable="gallery_alt" />
+    <item drawable="github" />
     <item drawable="glasswire" />
     <item drawable="instagram" />
     <item drawable="keyboard_a" />
     <item drawable="keyboard_one" />
     <item drawable="keyboard_two" />
+    <item drawable="kite" />
     <item drawable="manager" />
     <item drawable="messages" />
     <item drawable="microsoft_launcher" />
     <item drawable="microsoft_lens" />
+    <item drawable="microsoft_math" />
+    <item drawable="microsoft_onenote" />
     <item drawable="microsoft_office" />
     <item drawable="microsoft_onedrive" />
     <item drawable="microsoft_outlook" />
     <item drawable="microsoft_teams" />
+    <item drawable="microsoft_todo" />
     <item drawable="music" />
     <item drawable="news" />
     <item drawable="notes" />
@@ -94,10 +101,12 @@
     <item drawable="phone_alt" />
     <item drawable="phone_blue" />
     <item drawable="phone_green" />
+    <item drawable="planner" />
     <item drawable="polycon" />
     <item drawable="print" />
     <item drawable="radio" />
     <item drawable="reader" />
+    <item drawable="retro_music" />
     <item drawable="services" />
     <item drawable="settings_blue" />
     <item drawable="settings_green" />
@@ -115,7 +124,7 @@
     <item drawable="weather" />
     <item drawable="weather_alt" />
     <item drawable="whatsapp" />
-    <item drawable="yellow_dot" />
+    <item drawable="windscribe" />
     <item drawable="zipped" />
     <item drawable="___vlc" />
 
@@ -126,7 +135,7 @@
     <item drawable="games_bad_piggies" />
     <item drawable="games_battlenet" />
     <item drawable="games_boom_beach" />
-    <item drawable="games_brainwars" />
+    <item drawable="games_hitman" />
     <item drawable="games_chess" />
     <item drawable="games_clash_of_clans" />
     <item drawable="games_clash_royale" />

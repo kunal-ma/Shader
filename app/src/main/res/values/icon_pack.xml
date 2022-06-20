@@ -70,6 +70,7 @@
         <item>avast_antivirus</item>
         <item>avira_antivirus</item>
         <item>bitmoji</item>
+        <item>bitwarden</item>
         <item>bookmyshow</item>
         <item>boost</item>
         <item>calculator_alt</item>
@@ -84,6 +85,7 @@
         <item>compass</item>
         <item>contacts</item>
         <item>contacts_alt</item>
+        <item>digilocker</item>
         <item>earth</item>
         <item>ebook</item>
         <item>email_blue</item>
@@ -93,19 +95,24 @@
         <item>firefox</item>
         <item>gallery</item>
         <item>gallery_alt</item>
+        <item>github</item>
         <item>glasswire</item>
         <item>instagram</item>
         <item>keyboard_a</item>
         <item>keyboard_one</item>
         <item>keyboard_two</item>
+        <item>kite</item>
         <item>manager</item>
         <item>messages</item>
         <item>microsoft_launcher</item>
         <item>microsoft_lens</item>
+        <item>microsoft_math</item>
+        <item>microsoft_onenote</item>
         <item>microsoft_office</item>
         <item>microsoft_onedrive</item>
         <item>microsoft_outlook</item>
         <item>microsoft_teams</item>
+        <item>microsoft_todo</item>
         <item>music</item>
         <item>news</item>
         <item>notes</item>
@@ -117,10 +124,12 @@
         <item>phone_alt</item>
         <item>phone_blue</item>
         <item>phone_green</item>
+        <item>planner</item>
         <item>polycon</item>
         <item>print</item>
         <item>radio</item>
         <item>reader</item>
+        <item>retro_music</item>
         <item>services</item>
         <item>settings_blue</item>
         <item>settings_green</item>
@@ -138,7 +147,7 @@
         <item>weather</item>
         <item>weather_alt</item>
         <item>whatsapp</item>
-        <item>yellow_dot</item>
+        <item>windscribe</item>
         <item>zipped</item>
         <item>___vlc</item>
     </string-array>
@@ -149,7 +158,7 @@
         <item>games_bad_piggies</item>
         <item>games_battlenet</item>
         <item>games_boom_beach</item>
-        <item>games_brainwars</item>
+        <item>games_hitman</item>
         <item>games_chess</item>
         <item>games_clash_of_clans</item>
         <item>games_clash_royale</item>
