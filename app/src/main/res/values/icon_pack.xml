@@ -23,6 +23,7 @@
     <string-array name="icon_filters">
         <item>Google</item>
         <item>Apps</item>
+        <item>Borealis</item>
         <item>Games</item>
     </string-array>
 
@@ -150,6 +151,19 @@
         <item>windscribe</item>
         <item>zipped</item>
         <item>___vlc</item>
+    </string-array>
+
+    <string-array name="Borealis">
+        <item>borealis_airtel</item>
+        <item>borealis_avira_antivirus</item>
+        <item>borealis_bitwarden</item>
+        <item>borealis_blokada</item>
+        <item>borealis_digilocker</item>
+        <item>borealis_discord</item>
+        <item>borealis_mega</item>
+        <item>borealis_timetune</item>
+        <item>borealis_train</item>
+        <item>borealis_truecaller</item>
     </string-array>
 
     <string-array name="Games">

@@ -128,6 +128,17 @@
     <item drawable="zipped" />
     <item drawable="___vlc" />
 
+    <category title="Borealis" />
+    <item drawable="borealis_airtel" />
+    <item drawable="borealis_avira_antivirus" />
+    <item drawable="borealis_bitwarden" />
+    <item drawable="borealis_blokada" />
+    <item drawable="borealis_digilocker" />
+    <item drawable="borealis_discord" />
+    <item drawable="borealis_mega" />
+    <item drawable="borealis_timetune" />
+    <item drawable="borealis_train" />
+    <item drawable="borealis_truecaller" />
 
     <category title="Games" />
     <item drawable="games_altos_adventure" />
