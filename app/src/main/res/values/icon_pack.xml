@@ -45,7 +45,9 @@
         <item>google_lens</item>
         <item>google_maps</item>
         <item>google_pay</item>
+        <item>google_pay_alt</item>
         <item>google_photos</item>
+        <item>google_photos_alt</item>
         <item>google_play_books_new</item>
         <item>google_play_games</item>
         <item>google_play_movies</item>
@@ -60,10 +62,13 @@
     </string-array>
 
     <string-array name="Apps">
+        <item>aarogya_setu</item>
         <item>airtel</item>
+        <item>allcast</item>
         <item>android_terminal</item>
         <item>app_drawer</item>
         <item>avast_antivirus</item>
+        <item>avira_antivirus</item>
         <item>bitmoji</item>
         <item>bookmyshow</item>
         <item>boost</item>
@@ -83,6 +88,7 @@
         <item>ebook</item>
         <item>email_blue</item>
         <item>email_yellow</item>
+        <item>feedly</item>
         <item>feedly_alt</item>
         <item>firefox</item>
         <item>gallery</item>
@@ -95,9 +101,11 @@
         <item>manager</item>
         <item>messages</item>
         <item>microsoft_launcher</item>
+        <item>microsoft_lens</item>
         <item>microsoft_office</item>
         <item>microsoft_onedrive</item>
         <item>microsoft_outlook</item>
+        <item>microsoft_teams</item>
         <item>music</item>
         <item>news</item>
         <item>notes</item>
@@ -105,25 +113,33 @@
         <item>ola_cabs</item>
         <item>password</item>
         <item>paytm</item>
+        <item>paytm_alt</item>
         <item>phone_alt</item>
         <item>phone_blue</item>
         <item>phone_green</item>
+        <item>polycon</item>
         <item>print</item>
+        <item>radio</item>
         <item>reader</item>
         <item>services</item>
         <item>settings_blue</item>
         <item>settings_green</item>
         <item>shader</item>
         <item>shazam</item>
+        <item>sim_toolkit</item>
+        <item>snapchat</item>
         <item>spotify</item>
+        <item>student</item>
         <item>swiggy</item>
         <item>telegram</item>
+        <item>train</item>
         <item>uber</item>
         <item>wallet</item>
         <item>weather</item>
         <item>weather_alt</item>
         <item>whatsapp</item>
         <item>yellow_dot</item>
+        <item>zipped</item>
         <item>___vlc</item>
     </string-array>
 
@@ -145,115 +161,4 @@
         <item>games_super_mario_run</item>
     </string-array>
 
-    <string-array name="icon_pack">
-        <item>airtel</item>
-        <item>android_terminal</item>
-        <item>app_drawer</item>
-        <item>avast_antivirus</item>
-        <item>bitmoji</item>
-        <item>bookmyshow</item>
-        <item>boost</item>
-        <item>calculator_alt</item>
-        <item>calculator_blue</item>
-        <item>calculator_green</item>
-        <item>calculator_red</item>
-        <item>calendar</item>
-        <item>camera</item>
-        <item>camera_alt</item>
-        <item>clock_one</item>
-        <item>clock_two</item>
-        <item>compass</item>
-        <item>contacts</item>
-        <item>contacts_alt</item>
-        <item>earth</item>
-        <item>ebook</item>
-        <item>email_blue</item>
-        <item>email_yellow</item>
-        <item>feedly_alt</item>
-        <item>firefox</item>
-        <item>gallery_alt</item>
-        <item>games_altos_adventure</item>
-        <item>games_angry_birds</item>
-        <item>games_bad_piggies</item>
-        <item>games_battlenet</item>
-        <item>games_boom_beach</item>
-        <item>games_brainwars</item>
-        <item>games_chess</item>
-        <item>games_clash_of_clans</item>
-        <item>games_clash_royale</item>
-        <item>games_forza</item>
-        <item>games_jetpack</item>
-        <item>games_minecraft</item>
-        <item>games_myboy_gba</item>
-        <item>games_redungeon</item>
-        <item>games_super_mario_run</item>
-        <item>gboard</item>
-        <item>gboard_alt</item>
-        <item>glasswire</item>
-        <item>gmail</item>
-        <item>google</item>
-        <item>google_alt</item>
-        <item>google_assistant</item>
-        <item>google_calculator</item>
-        <item>google_calendar</item>
-        <item>google_calendar_alt</item>
-        <item>google_camera</item>
-        <item>google_chrome</item>
-        <item>google_drive</item>
-        <item>google_fit</item>
-        <item>google_fit_alt</item>
-        <item>google_keep</item>
-        <item>google_lens</item>
-        <item>google_maps</item>
-        <item>google_pay</item>
-        <item>google_photos</item>
-        <item>google_play_books_new</item>
-        <item>google_play_games</item>
-        <item>google_play_movies</item>
-        <item>google_play_music</item>
-        <item>google_play_newsstand</item>
-        <item>google_play_store</item>
-        <item>google_search</item>
-        <item>google_snapseed</item>
-        <item>google_street_view</item>
-        <item>google_translate</item>
-        <item>instagram</item>
-        <item>keyboard_a</item>
-        <item>keyboard_one</item>
-        <item>keyboard_two</item>
-        <item>manager</item>
-        <item>messages</item>
-        <item>microsoft_launcher</item>
-        <item>microsoft_office</item>
-        <item>microsoft_onedrive</item>
-        <item>microsoft_outlook</item>
-        <item>music</item>
-        <item>news</item>
-        <item>notes</item>
-        <item>notes_alt</item>
-        <item>ola_cabs</item>
-        <item>password</item>
-        <item>paytm</item>
-        <item>phone_alt</item>
-        <item>phone_blue</item>
-        <item>phone_green</item>
-        <item>print</item>
-        <item>reader</item>
-        <item>services</item>
-        <item>settings_blue</item>
-        <item>settings_green</item>
-        <item>shader</item>
-        <item>shazam</item>
-        <item>spotify</item>
-        <item>swiggy</item>
-        <item>telegram</item>
-        <item>uber</item>
-        <item>wallet</item>
-        <item>weather</item>
-        <item>weather_alt</item>
-        <item>whatsapp</item>
-        <item>yellow_dot</item>
-        <item>you__tube</item>
-        <item>___vlc</item>
-    </string-array>
 </resources>
