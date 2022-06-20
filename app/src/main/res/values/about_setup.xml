@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation,MissingTranslation">
+    <string-array name="credits_photos" formatted="false" tools:ignore="TypographyDashes">
+        <item>https://cdn.jsdelivr.net/gh/kunal-ma/container/shader-app/artwork/profile.jpg</item>
+    </string-array>
+
+    <string-array name="credits_titles">
+        <item>Kunal M.A.</item>
+    </string-array>
+
+    <string-array name="credits_descriptions">
+        <item>18yo kid trying out new stuff</item>
+    </string-array>
+
+    <string-array name="credits_buttons">
+        <item>Instagram|Website</item>
+    </string-array>
+
+    <string-array name="credits_links">
+        <item>http://instagram.com/_kunalma|https://kunalma.carrd.co</item>
+    </string-array>
+</resources>

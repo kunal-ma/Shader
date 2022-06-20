@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/kunal/Android/Blueprint/Builds/3/Blueprint-sample/app/src/main/res/drawable-anydpi-v26/adaptive_one.xml" value="0.101" />
+        <entry key="..\:/Users/kunal/Android/Blueprint/Builds/3/Blueprint-sample/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1355" />
+        <entry key="..\:/Users/kunal/Android/Blueprint/Builds/3/Blueprint-sample/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1355" />
+        <entry key="..\:/Users/kunal/Android/Shader/Build/app/src/main/res/drawable-anydpi-v26/adaptive_one.xml" value="0.1355" />
+        <entry key="..\:/Users/kunal/Android/Shader/Build/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1355" />
+        <entry key="..\:/Users/kunal/Android/Shader/Build/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/kunal/Android/Shader/Build/app/src/main/res/menu/drawer_menu.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/kunal/Android/Shader/Build/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.13" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

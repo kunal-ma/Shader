@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <version title="v1.0.1" />
+    <item text="Redesigned the App" />
+    <item text="Added 110 icons" />
+    <item text="Added 10 wallpapers" />
+    <item text="Removed Widgets" />
+    <item text="" /> <!-- this one is empty and therefore ignored -->
+</resources>
