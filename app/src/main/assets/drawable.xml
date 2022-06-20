@@ -95,6 +95,7 @@
     <item drawable="notes" />
     <item drawable="notes_alt" />
     <item drawable="ola_cabs" />
+    <item drawable="orbot" />
     <item drawable="password" />
     <item drawable="paytm" />
     <item drawable="paytm_alt" />
@@ -106,6 +107,7 @@
     <item drawable="print" />
     <item drawable="radio" />
     <item drawable="reader" />
+    <item drawable="readera" />
     <item drawable="retro_music" />
     <item drawable="services" />
     <item drawable="settings_blue" />
@@ -120,6 +122,7 @@
     <item drawable="telegram" />
     <item drawable="train" />
     <item drawable="uber" />
+    <item drawable="vault" />
     <item drawable="wallet" />
     <item drawable="weather" />
     <item drawable="weather_alt" />
@@ -133,10 +136,10 @@
     <item drawable="borealis_avira_antivirus" />
     <item drawable="borealis_bitwarden" />
     <item drawable="borealis_blokada" />
+    <item drawable="borealis_collabora_office" />
     <item drawable="borealis_digilocker" />
     <item drawable="borealis_discord" />
     <item drawable="borealis_mega" />
-    <item drawable="borealis_timetune" />
     <item drawable="borealis_train" />
     <item drawable="borealis_truecaller" />
 
@@ -153,7 +156,9 @@
     <item drawable="games_forza" />
     <item drawable="games_jetpack" />
     <item drawable="games_minecraft" />
+    <item drawable="games_monument_valley" />
     <item drawable="games_myboy_gba" />
+    <item drawable="games_stardew" />
     <item drawable="games_redungeon" />
     <item drawable="games_super_mario_run" />
 

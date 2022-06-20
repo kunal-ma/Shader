@@ -119,6 +119,7 @@
         <item>notes</item>
         <item>notes_alt</item>
         <item>ola_cabs</item>
+        <item>orbot</item>
         <item>password</item>
         <item>paytm</item>
         <item>paytm_alt</item>
@@ -130,6 +131,7 @@
         <item>print</item>
         <item>radio</item>
         <item>reader</item>
+        <item>readera</item>
         <item>retro_music</item>
         <item>services</item>
         <item>settings_blue</item>
@@ -144,6 +146,7 @@
         <item>telegram</item>
         <item>train</item>
         <item>uber</item>
+        <item>vault</item>
         <item>wallet</item>
         <item>weather</item>
         <item>weather_alt</item>
@@ -158,10 +161,10 @@
         <item>borealis_avira_antivirus</item>
         <item>borealis_bitwarden</item>
         <item>borealis_blokada</item>
+        <item>borealis_collabora_office</item>
         <item>borealis_digilocker</item>
         <item>borealis_discord</item>
         <item>borealis_mega</item>
-        <item>borealis_timetune</item>
         <item>borealis_train</item>
         <item>borealis_truecaller</item>
     </string-array>
@@ -179,7 +182,9 @@
         <item>games_forza</item>
         <item>games_jetpack</item>
         <item>games_minecraft</item>
+        <item>games_monument_valley</item>
         <item>games_myboy_gba</item>
+        <item>games_stardew</item>
         <item>games_redungeon</item>
         <item>games_super_mario_run</item>
     </string-array>
