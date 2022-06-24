@@ -2,7 +2,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
 
     <!--    This is the link for the JSON file where you have listed your wallpapers -->
-    <string name="json_url">"https://raw.githubusercontent.com/kunal-ma/container/main/shader-app/javascript/wallpaper.json"</string>
+    <string name="json_url">"https://raw.githubusercontent.com/kunal-ma/shader/main/external/libraries/wallpaper.json"</string>
 
     <!--
     Enable immediate download

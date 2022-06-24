@@ -1,0 +1,62 @@
+[
+	{
+		"name": "Aerial Sunrise",
+		"url": "https://cdn.jsdelivr.net/gh/kunal-ma/shader@main/external/wallpapers/aerial_sunrise.png",
+		"thumbnail": "https://cdn.jsdelivr.net/gh/kunal-ma/shader@main/external/wallpapers/aerial_sunrise_t.png",
+		"downloadable": true
+	},
+	{
+		"name": "Bamboo",
+		"url": "https://cdn.jsdelivr.net/gh/kunal-ma/shader@main/external/wallpapers/bamboo.png",
+		"thumbnail": "https://cdn.jsdelivr.net/gh/kunal-ma/shader@main/external/wallpapers/bamboo_t.png",
+		"downloadable": true
+	},
+	{
+		"name": "Beach",
+		"url": "https://cdn.jsdelivr.net/gh/kunal-ma/shader@main/external/wallpapers/beach.png",
+		"thumbnail": "https://cdn.jsdelivr.net/gh/kunal-ma/shader@main/external/wallpapers/beach_t.png",
+		"downloadable": true
+	},
+	{
+		"name": "Dark Leaves",
+		"url": "https://cdn.jsdelivr.net/gh/kunal-ma/shader@main/external/wallpapers/dark_leaves.png",
+		"thumbnail": "https://cdn.jsdelivr.net/gh/kunal-ma/shader@main/external/wallpapers/dark_leaves_t.png",
+		"downloadable": true
+	},
+	{
+		"name": "Orange Sky",
+		"url": "https://cdn.jsdelivr.net/gh/kunal-ma/shader@main/external/wallpapers/orange_sky.png",
+		"thumbnail": "https://cdn.jsdelivr.net/gh/kunal-ma/shader@main/external/wallpapers/orange_sky_t.png",
+		"downloadable": true
+	},
+	{
+		"name": "Particle Waves",
+		"url": "https://cdn.jsdelivr.net/gh/kunal-ma/shader@main/external/wallpapers/particle_waves.png",
+		"thumbnail": "https://cdn.jsdelivr.net/gh/kunal-ma/shader@main/external/wallpapers/particle_waves_t.png",
+		"downloadable": true
+	},
+	{
+		"name": "Red Leaves",
+		"url": "https://cdn.jsdelivr.net/gh/kunal-ma/shader@main/external/wallpapers/red_leaves.png",
+		"thumbnail": "https://cdn.jsdelivr.net/gh/kunal-ma/shader@main/external/wallpapers/red_leaves_t.png",
+		"downloadable": true
+	},
+	{
+		"name": "Sunrise",
+		"url": "https://cdn.jsdelivr.net/gh/kunal-ma/shader@main/external/wallpapers/sunrise.png",
+		"thumbnail": "https://cdn.jsdelivr.net/gh/kunal-ma/shader@main/external/wallpapers/sunrise_t.png",
+		"downloadable": true
+	},
+	{
+		"name": "Sunset",
+		"url": "https://cdn.jsdelivr.net/gh/kunal-ma/shader@main/external/wallpapers/sunset.png",
+		"thumbnail": "https://cdn.jsdelivr.net/gh/kunal-ma/shader@main/external/wallpapers/sunset_t.png",
+		"downloadable": true
+	},
+	{
+		"name": "Window",
+		"url": "https://cdn.jsdelivr.net/gh/kunal-ma/shader@main/external/wallpapers/window.png",
+		"thumbnail": "https://cdn.jsdelivr.net/gh/kunal-ma/shader@main/external/wallpapers/window_t.png",
+		"downloadable": true
+	}
+]

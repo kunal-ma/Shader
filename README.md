@@ -1,4 +1,4 @@
-<img src="https://cdn.jsdelivr.net/gh/kunal-ma/container/shader-app/artwork/shader.png" width="192" align="right" hspace="20" alt="logo" />
+<img src="https://cdn.jsdelivr.net/gh/kunal-ma/shader@main/external/artwork/shader.png" width="192" align="right" hspace="20" alt="logo" />
 
 Shader
 ======
@@ -8,8 +8,8 @@ Personalized Icon Pack for Android, with 100+ icons and wallpapers. Optimized fo
 Note : This app is only made for personal use. You are not allowed to use it for any commercial use.
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/kunal-ma/container/shader-app/artwork/demo_1.png" height="600" alt="demo_1" align="" />
-<img src="https://cdn.jsdelivr.net/gh/kunal-ma/container/shader-app/artwork/demo_2.png" height="600" alt="demo_2" align="" />
+<img src="https://cdn.jsdelivr.net/gh/kunal-ma/shader@main/external/artwork/demo_1.png" height="600" alt="demo_1" align="" />
+<img src="https://cdn.jsdelivr.net/gh/kunal-ma/shader@main/external/artwork/demo_2.png" height="600" alt="demo_2" align="" />
 </p>
 
 ---
